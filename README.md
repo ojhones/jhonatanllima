@@ -1,10 +1,10 @@
 ### Faala guys, eu sou o Jhonatan! 👋
 
-- 🔭 Atualmente trabalho com Front end utilizando React, React Native e Next.js.
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas - Fatec Itapetininga.
-- 🌱 Estou me aprofundando em Next.js
-- 📫 Meu contate via: jhonatan.vinicius.lima@gmail.com cc: jhonatan.lima.dev@gmail.com
-- ⚡ Fato engraçado: Até no mal humor me dirvirto 😂
+- 🔭 Atualmente trabalho com Front end utilizando React, React Native e Next.js;
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas - Fatec Itapetininga;
+- 🌱 Estou me aprofundando em Next.js;
+- 📫 Meu contate via: jhonatan.vinicius.lima@gmail.com cc: jhonatan.lima.dev@gmail.com;
+- ⚡ Fato engraçado: Até no mal humor me dirvirto 😂.
   
 <div>
   <a href="https://github.com/jhonatanllima">
